@@ -6,7 +6,6 @@
 
 html {
     font-family: 'Lato', sans-serif;
-    /* font-family: 'Merriweather', serif */
     background: #EBEBEB;
 }
 
@@ -173,8 +172,6 @@ html {
     filter: drop-shadow(0 0 10px #005FA3);
 }
 
-/* section_promo */
-
 .section_promo {
     padding-top: 170px;
     padding-bottom: 113px;
@@ -252,8 +249,6 @@ html {
     background: rgba(255, 255, 255, 0.4) url(../img/arrowR.png) no-repeat center;
 }
 
-/* section_special */
-
 .section_special {
     padding: 140px 0
 }
@@ -317,8 +312,6 @@ html {
     line-height: 30px;
     color: #FFFFFF;    
 }
-
-/* section_abutus */
 
 .section_abutus {
     padding: 140px 0;
@@ -416,8 +409,6 @@ html {
     color: #005FA3;
 }
 
-/* section_clients */
-
 .section_clients {
     padding: 100px 0;
     background: #EBEBEB;
@@ -469,7 +460,6 @@ html {
     background: #005FA3 url(../img/arrowR.png) no-repeat center;
 }
 
-/* section_feedback */
 
 .section_feedback {
     background: white;
@@ -522,8 +512,6 @@ html {
     line-height: 19px;  
     color: #4F4F4F;
 }
-
-/* section_input */
 
 .section_input {
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/st-pet.jpg), #C4C4C4;
@@ -639,8 +627,6 @@ html {
     right: 0;
 }
 
-/* section_footer */
-
 .section_footer {
     padding: 55px 0 40px;
 }
@@ -657,32 +643,3 @@ html {
 
 
 
-
-
-/* adaptation and burger */
-
-/* Large Devices, Wide Screens */
-@media only screen and (max-width: 1200px) {
-    /*  */
- }
- 
- /* Medium Devices, Desktops */
- @media only screen and (max-width: 992px) {
-    /*  */
- }
- 
- /* Small Devices, Tablets */
- @media only screen and (max-width: 768px) {
-    /*  */
- }
-  
- /* Extra small Devices, Phones */
- @media only screen and (max-width: 480px) {
-    /*  */
- }
- 
- 
- /* Custom, iPhone Retina */
- @media only screen and (max-width: 320px) {
-     /*  */
- }
